@@ -1,0 +1,4 @@
+-ShowDeviceSlots=1
+-EnableArmOnSelection
+-AutoAdjustMacroMappingRange
+-_PluginAutoPopulateThreshold=128
