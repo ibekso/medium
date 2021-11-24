@@ -34,6 +34,7 @@
 -EditorResnapRangeFactor
 -EditorResnapTimeoutOnMouseUp
 -EditorSnapTimeout
+-EnableArmOnSelection
 -EnableHotSwapOnSelection
 -EventRecorderTempDir
 -Halion3BugWorkaround
@@ -98,3 +99,4 @@
 -WipeoutProtectionActivationWindowSizeMs
 -WipeoutProtectionDecisionWindowSizeMs
 -WriteLanguageCommentFile
+-_PluginAutoPopulateThreshold

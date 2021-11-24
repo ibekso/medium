@@ -52,6 +52,7 @@
 -EditorResnapRangeFactor
 -EditorResnapTimeoutOnMouseUp
 -EditorSnapTimeout
+-EnableArmOnSelection
 -EnableGMIForVideo
 -EnableHotSwapOnSelection
 -EnableMapToSiblings
@@ -147,3 +148,4 @@
 -WipeoutProtectionActivationWindowSizeMs
 -WipeoutProtectionDecisionWindowSizeMs
 -WriteLanguageCommentFile
+-_PluginAutoPopulateThreshold
