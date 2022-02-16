@@ -9,7 +9,7 @@ In order to setup your MIDI controller to interact with Ableton the way you have
 
 ## Programmation
 ### Script structure
-The [script file](../../user_remote_scripts/UserConfiguration.txt) provided by Ableton named UserConfiguration.txt already provides the skeletton of the parameters and some help. Basically, modifying it consists of replacing the parameters you want to modify, leaving the others one to their default values.
+The [script file](../../articles_ressources/user_remote_scripts/UserConfiguration.txt) provided by Ableton named UserConfiguration.txt already provides the skeletton of the parameters and some help. Basically, modifying it consists of replacing the parameters you want to modify, leaving the others one to their default values.
 
 It is divided in 4 mains parts, each one controlling different parameter sets:
 - `[Globals]`: sets up MIDI general parameters

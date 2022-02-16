@@ -9,7 +9,7 @@
 
 Today I will walk you through some Ableton hidden features. Indeed, beyond Ableton default functionalities, there is a way to expand them using experimental features. Those are not officially supported and may not work anymore by the time you are reading this article. You can find the official statement of Ableton regarding those functionalities [here](https://help.ableton.com/hc/en-us/articles/209772865-Le-fichier-Options-txt).
 
-In this article, I will show you the ones that I use the most. In order to have a full list of the available options, you can check [this file](../../options_txt/lists/full_options_list.txt).
+In this article, I will show you the ones that I use the most. In order to have a full list of the available options, you can check [this file](../../articles_ressources/options_txt/lists/full_options_list.txt).
 
 ## Available options
 `ShowDeviceSlots`
@@ -59,9 +59,9 @@ If you receive any error message at startup regarding the Options.txt file, you 
 
 In case you do not manage to fix it, you can safely remove `Options.txt` as it only concerns experimental features and will not alter Ableton general behaviour.
 
-As an example, you can find [here](../../options_txt/Options.txt) my personal `Options.txt` file.
+As an example, you can find [here](../../articles_ressources/options_txt/Options.txt) my personal `Options.txt` file.
 
 ## Ableton Live 11
 With the release of the recent Ableton Live 11, many features are not working anymore, either because they have been natively added to Ableton, or because they have been removed. I tried the full options list and you can find here the outcome:
-- [list](../../options_txt/lists/options_available_live_11.txt) of the options working with Ableton 11
-- [list](../../options_txt/lists/options_removed_live_11.txt) of the options that have been removed in Ableton Live 11
+- [list](../../articles_ressources/options_txt/lists/options_available_live_11.txt) of the options working with Ableton 11
+- [list](../../articles_ressources/options_txt/lists/options_removed_live_11.txt) of the options that have been removed in Ableton Live 11
