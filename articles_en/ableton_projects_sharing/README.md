@@ -14,7 +14,7 @@ Indeed, Ableton already has a function that allows you to pack a full project wi
 4. Make sure you do not have any external files in the related section. If you do, perform a `Collect All and Save` so you have them copied locally.
 5. Create an Ableton Pack `(.alp)` by clicking on `Create Pack` at the bottom of the window.
 
-<div align="center"><img src="assets/1_file_management.png" alt=".adg example"><p><small><i>File management window</i></small></p></div>
+<div align="center"><img src="assets/1_file_management.png" alt="File management window"><p><small><i>File management window</i></small></p></div>
 
 You can now share this Ableton Pack as a single file with other producers.
 
@@ -23,7 +23,7 @@ You can now share this Ableton Pack as a single file with other producers.
 ## Description
 There are other information you can get from this Manage project view. We will go more in-depth about it in this section.
 
-<div align="center"><img src="assets/2_manage_project.png" alt=".adg example"><p><small><i>Manage Project window</i></small></p></div>
+<div align="center"><img src="assets/2_manage_project.png" alt="Manage Project window"><p><small><i>Manage Project window</i></small></p></div>
 
 - `Project Location`: this shows the file path to where your project is located on your computer.
 - `Project Contents`: this is a summary of your project, where you can inspect the different resources it uses.
