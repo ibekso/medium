@@ -22,8 +22,8 @@ It is useful if your device is not supported by default, or if you want to modif
 > Mac → `HD/Users/[Username]/Library/Preferences/Ableton/[Live x.x.x]>User Remote Scripts`
 
 Those folders are by default only containing Ableton help files about this mechanism:
-- an [help file](../../user_remote_scripts/InstantMappings-HowTo.txt) named `InstantMappings-HowTo.txt`
-- a [template file](../../user_remote_scripts/UserConfiguration.txt) named `UserConfiguration.txt`
+- an [help file](../../articles_ressources/user_remote_scripts/InstantMappings-HowTo.txt) named `InstantMappings-HowTo.txt`
+- a [template file](../../articles_ressources/user_remote_scripts/UserConfiguration.txt) named `UserConfiguration.txt`
 
 <div align="center"><img src="assets/1_user_remote_scripts_location.png" alt="User Remote Scripts location"><p><small><i>User Remote Scripts location</i></small></p></div>
 
