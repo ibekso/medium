@@ -2,8 +2,6 @@
 
 This is a description of the different file types used in Ableton. I decided to categorise them based on my own experience, regarding their scope of action.
 
-<!-- ![Ableton overview](assets/preview.png) -->
-
 <div align="center"><img src="assets/0_preview.png" alt="Ableton overview" width="640" height=360><p><small><i>Ableton overview</i></small></p></div>
 
 > *TLDR: Here is an alphabetical list of the different Ableton file types*  
@@ -14,7 +12,7 @@ This is a description of the different file types used in Ableton. I decided to 
 `.alp` (Ableton Live Pack)  
 `.als` (Ableton Live Set)  
 `.ams` (Ableton Meta Sound)  
-`.amx`d (Ableton Max For Live Device)  
+`.amxd` (Ableton Max For Live Device)  
 `.asd` (Ableton Sample Analysis File)  
 `.ask` (Ableton Skin File)  
 
@@ -33,7 +31,7 @@ This is a description of the different file types used in Ableton. I decided to 
 
 <div align="center"><img src="assets/3_adv_example.png" alt=".adv example"><p><small><i>.adv example</i></small></p></div>
 
-- `.amxd` (Ableton Max For Live Device) : it describes a device developed using Max For Live, which is a development environment tailored for Ableton. However, you can use those devices without having to program them(https://maxforlive.com).
+- `.amxd` (Ableton Max For Live Device) : it describes a device developed using Max For Live, which is a development environment tailored for Ableton. However, you can use those devices without having to program them (https://maxforlive.com).
 
 ## Data related
 - `.alc` (Ableton Live Clips) : this is a way to store session clips information. It can be both an audio or a midi clip. For midi clips, it saves as well everything from the channel strip (intruments, effects…).
